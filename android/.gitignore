@@ -1,0 +1,52 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.flutter-*
+.dart_tool/
+.idea/
+.sconsign.dblite
+
+# Objets binaires générés
+*.lock
+*.log
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcodeproj/project.xcworkspace
+ios/Pods/
+ios/Runner.xcworkspace
+ios/.symlinks/
+ios/profile
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle
+android/captures/
+android/.idea
+
+# VS Code / IntelliJ
+.vscode/
+*.iml
+
+# Mac
+.DS_Storgradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
