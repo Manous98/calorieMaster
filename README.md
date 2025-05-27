@@ -1,6 +1,6 @@
 ## calorieMaster
 
-### Calcul du besoin calorifique journalier de l'individus
+### Calcul du besoin calorifique journalier de l'individus.
 
 ### Un ecran principal qui permet a l'utilisateur de choisir s'il est une Femme ou un Homme.
 
